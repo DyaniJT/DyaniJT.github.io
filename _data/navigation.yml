@@ -1,15 +1,9 @@
 main:
   - title: "About"
     url: /contact/
-  - title: "Research"
-    url: /research/
   - title: "Teaching"
     url: /teaching/
-  - title: "Mentorship"
-    url: /mentorship/
-  - title: "Outreach"
-    url: /outreach/
-  - title: "Publications"
-    url: /pubs/
+  - title: "Research"
+    url: /research/
   - title: "CV"
-    url: assets/pdfs/Taff_CV_2022_05.pdf
+    url: assets/pdfs/TaffCVWebsite.pdf
