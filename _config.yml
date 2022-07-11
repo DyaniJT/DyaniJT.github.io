@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Conor Taff
-subtitle: Integrative Organismal Biology
-email: cct63@cornell.edu
+title: Dyani Johns Taff
+email: dtaff@colby.edu
 description: >- #ignore
   Personal Webpage
-url: https://cct663.github.io/ctaff_website
-twitter_username: ConorTaff
-github_username: cct663
+url: https://dyanijt.github.io
+twitter_username: DyaniJTaff
 minimal_mistakes_skin: default
 search: true
 
@@ -64,32 +62,26 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Conor Taff"
+  name   : "Dyani Johns Taff"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I use field, lab, and quantitative approaches to study the ecology, evolution, physiology, and behavior of wild birds."
-  location: "Ithaca, NY, USA"
+  bio    : "Literature"
+  location: "Waterville, ME, USA"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ConorTaff"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/cct663"
+      url: "https://twitter.com/DyaniJTaff"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cct63@cornell.edu"
+      url: "mailto:dtaff@colby.edu"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ConorTaff"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/cct663"
+      url: "https://twitter.com/DyaniJTaff"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cct63@cornell.edu"
+      url: "mailto:dtaff@colby.edu"
 
 defaults:
   # _pages
