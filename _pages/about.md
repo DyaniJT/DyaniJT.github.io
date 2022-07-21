@@ -1,8 +1,22 @@
 ---
-permalink: /about/
+layout: single
 title: "About"
+permalink: /about/
+header:
+    overlay_image: /assets/images/IMG_4062.jpg
+author_profile: true
+classes: wide
+date: July 21, 2022
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+{% include figure image_path="/assets/images/Taff Summer Reading.png" alt="" caption="" %}
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I write and teach about early modern literature, working at the intersection of gender studies and the maritime humanities, with explorations into environmental justice and premodern critical race studies. I have written essays on Spenser, Shakespeare, Ben Jonson, Margaret Cavendish, Hester Pulter, and Chaucer, and I am currently writing a book titled *Gendered Seascapes and Monarchy in Early Modern English Culture*.
+
+### Get in touch!
+
+Dr. Dyani Johns Taff<br>
+Assistant Professor of English<br>
+[Department of English, Colby College](https://www.colby.edu/englishdept/)<br>
+
+<a href="mailto:{{ 'dtaff@colby.edu' | encode_email }}" title="Email me">Email me</a>
