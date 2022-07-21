@@ -17,7 +17,7 @@ My goal in the classroom is to create lively, productive conversations by inviti
 
 Close analysis of a broad range of texts forms the core of each of my courses, and we support our close textual work with individual and group research projects. My students’ close readings become a foundation for their work as sophisticated readers and writers, whether they are comparing disparate texts, gathering evidence to support their claims, or placing their ideas in relation to those of classmates and experts. These skills are central to literary study, and also to students’ engagement as citizens within and beyond college.
 
-{% include figure image_path="/assets/images/diamond.png" alt="" caption="" %}{: width="50" }
+{% include figure image_path="/assets/images/diamond.jpg" alt="" caption="" %}{: width="50" }
 
 ### Spring 2022 Courses 
 
