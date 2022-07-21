@@ -11,7 +11,7 @@ date: July 21, 2022
 
 ### Teaching Philosophy
 
-![image-right](/assets/images/20140509_dyani_taff_5060.jpg){: .align-right}
+![image-right](/assets/images/20140509_dyani_taff_5060.jpg){: .align-right}{: width="50" }
 
 My goal in the classroom is to create lively, productive conversations by inviting students to share and broaden their experiences through close encounters with complex texts. In my summer courses at Skidmore College, high-achieving high school students from under-served communities learned alongside current Skidmore students and adults from the Saratoga community. At UC Davis, I worked with international students, non-native English speakers, parents, students returning to college after other careers, those with disabilities, and those from different racial, economic, and cultural backgrounds. I have continued to teach students from all of these backgrounds, first at Ithaca College and now at Colby College, both of which are majority white and majority young-adult communities; I use collaborative learning practices that I have developed in response to my students and that encourage diverse perspectives in my classrooms.
 
