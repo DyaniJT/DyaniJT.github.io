@@ -30,31 +30,31 @@ The book analyzes seascapes that appear in a range of well- and lesser-known pla
 
 ### Publications
 
-2022 
+#### 2022 
 
 [“Europa into the Waves: John Dee and Meandering Research.”](https://collation.folger.edu/2022/07/europa-into-the-waves/){: .btn .btn--info} *The Collation*. Folger Shakespeare Library. 8 July. 
 
 
-2021 
+#### 2021 
 
 [“Conflicts: Naval Wars, Violent Migrations, and Silent/Silenced Archives.”](https://www.bloomsbury.com/us/cultural-history-of-the-sea-9781474299107/){: .btn .btn--info} *A Cultural History of the Sea in the Early Modern Age*. Ed. Steve Mentz. Bloomsbury Publishing. 105-33. 
 
 
-2020 
+#### 2020 
 
 [“Dark Holes and Violent Allegories in *The Faerie Queene*.”](https://www.english.cam.ac.uk/spenseronline/review/item/50.3.2/){: .btn .btn--info} *Spenser Review* 50.3.2 (Fall 2020). 
 
 [“Death and Revolution: Thinking with Hester Pulter.”](https://medium.com/the-sundial-acmrs/death-and-revolution-thinking-with-hester-pulter-848d5c966b6d){: .btn .btn--info} *The Sundial: Premodern Pasts, Inclusive Futures AMCRS*. 27 October. 
 
 
-2019 
+#### 2019 
 
 [“’[L]ove that oughte ben secree’: Secrecy and Alternate Endings in Chaucer’s *Troilus and Criseyde*.”](/assets/pdfs/Taff-Secrecy-Alternate-Endings.pdf){: .btn .btn--info} *Studies in Philology*, vol. 116, no. 4 (Fall 2019): 617-639. 
 
 [“Precarious Travail, Gender, and Narration in Shakespeare’s *Pericles, Prince of Tyre* and Margaret Cavendish’s *The Blazing World*.”](/assets/pdfs/Taff-Precarious-Travail.pdf){: .btn .btn--info}{: .text-left} *Travel and Travail: Early Modern Women, English Drama, and the Wider World*. Eds. Bernadette Andrea and Patricia Akhimie. University of Nebraska Press. 273-291. 
 
 
-2018 
+#### 2018 
 
 [“Gendered Circulation and the Marital Ship of State in Jonson’s *The Staple of News*.”](/assets/pdfs/Taff-Gendered-Circulation.pdf){: .btn .btn--info} *Renaissance Drama* 46, vol. 2 (Fall 2018): 193-212. 
 
@@ -65,7 +65,7 @@ The book analyzes seascapes that appear in a range of well- and lesser-known pla
 [Review:](/assets/pdfs/Taff-Duckert-For-All-Waters.pdf){: .btn .btn--info} Lowell Duckert. *For All Waters: Finding Ourselves in Early Modern Wetscapes* (U of Minnesota P, 2015). *The Nautilus: A Maritime Journal of Literature, History, and Culture*, vol. IX. 99-103. 
 
 
-2015 
+#### 2015 
 
 [“A Shipwreck of Faith: Hazardous Voyages and Contested Representations in Milton’s *Samson Agonistes*.”](/assets/pdfs/Taff-Shipwreck-Samson.pdf){: .btn .btn--info} *Storms on Islands: Shipwreck and Island Motifs in Literature and the Arts*. Eds. Brigitte Le Juez and Olga Springer. Brill/Rodopi. 151-170. 
 
