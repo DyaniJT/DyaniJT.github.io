@@ -17,7 +17,7 @@ My goal in the classroom is to create lively, productive conversations by inviti
 
 Close analysis of a broad range of texts forms the core of each of my courses, and we support our close textual work with individual and group research projects. My students’ close readings become a foundation for their work as sophisticated readers and writers, whether they are comparing disparate texts, gathering evidence to support their claims, or placing their ideas in relation to those of classmates and experts. These skills are central to literary study, and also to students’ engagement as citizens within and beyond college.
 
-{% include figure image_path="/assets/images/diamond.jpg" alt="" caption="" %}{: width="50" }
+{% include figure image_path="/assets/images/diamond-line.png" alt="" caption="" %}
 
 ### Spring 2022 Courses 
 
@@ -29,7 +29,7 @@ Close analysis of a broad range of texts forms the core of each of my courses, a
 
      [Syllabus](/assets/pdfs/Taff EN200 SP22.pdf){: .btn .btn--info}
 
-{% include figure image_path="/assets/images/diamond.png" alt="" caption="" %}
+{% include figure image_path="/assets/images/diamond-line.png" alt="" caption="" %}
 
 #### Other Colby College Courses
 
@@ -38,7 +38,7 @@ Close analysis of a broad range of texts forms the core of each of my courses, a
 - Women, Science, and Politics in 17th C Literature
 - Shakespeare and Injustice
 
-{% include figure image_path="/assets/images/diamond.png" alt="" caption="" %}
+{% include figure image_path="/assets/images/diamond-line.png" alt="" caption="" %}
 
 #### Ithaca College Courses
 
@@ -48,7 +48,7 @@ Close analysis of a broad range of texts forms the core of each of my courses, a
 - Introduction to Poetry
 - Shakespeare (sophomore level)
 
-{% include figure image_path="/assets/images/diamond.png" alt="" caption="" %}
+{% include figure image_path="/assets/images/diamond-line.png" alt="" caption="" %}
 
 #### Teaching History
 
@@ -57,4 +57,4 @@ Close analysis of a broad range of texts forms the core of each of my courses, a
 - 2008-2010 Teaching Assistant at University of California, Davis
 - 2011-2012 Instructor at Skidmore College, Summer Program
 
-{% include figure image_path="/assets/images/diamond.png" alt="" caption="" %}     
+{% include figure image_path="/assets/images/diamond-line.png" alt="" caption="" %}     
