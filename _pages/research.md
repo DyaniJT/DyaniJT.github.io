@@ -19,7 +19,7 @@ feature_rowa:
 
 ### Book Project
 
-![image-left](/assets/images/research-photo.jpg){: .align-left}{: width="450" }
+![image-left](/assets/images/research-photo.jpg){: .align-left}{: width="350" }
 
 I am writing a book titled *Gendered Seascapes and Monarchy in Early Modern English Culture*, which explores seascapes, including figures of coastlines, ships and wrecks, naval war, and stormy seas, that writers across centuries have used to propose systems of authority and to warn readers about threats to governing structures. I argue that early modern seascapes often posit a hierarchical, gendered relationship between pilot and ship or human and environment; for example, the ideal monarch is like a pilot who controls the ship-like state or the ideal husband pilots his ship-like wife. Yet queer figures and models of human-nonhuman collaboration—such as male bodies compared to pregnant sails or a monarch who is a pilot and also a wind, an island, or a harbor—disrupt top-down, patriarchal systems of governance.
 
@@ -27,6 +27,7 @@ The book analyzes seascapes that appear in a range of well- and lesser-known pla
 
 {% include feature_row id="feature_rowa" %} 
 
+<br/><br/>
 <hr style="border:2px solid gray">
 
 ### Publications
@@ -70,6 +71,7 @@ The book analyzes seascapes that appear in a range of well- and lesser-known pla
 
 [“A Shipwreck of Faith: Hazardous Voyages and Contested Representations in Milton’s *Samson Agonistes*.”](/assets/pdfs/Taff-Shipwreck-Samson.pdf) *Storms on Islands: Shipwreck and Island Motifs in Literature and the Arts*. Eds. Brigitte Le Juez and Olga Springer. Brill/Rodopi. 151-170. 
 
+<br/><br/>
 <hr style="border:2px solid gray">
 
 ### Selected Awards
