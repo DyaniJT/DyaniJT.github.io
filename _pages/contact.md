@@ -1,33 +1,22 @@
 ---
 layout: single
-title: "Contact"
-permalink: /contact/
+title: "About"
+permalink: /about/
 header:
-    overlay_image: /assets/images/coye_male_banner.jpg
+    overlay_image: /assets/images/IMG_4062.jpg
 author_profile: true
 classes: wide
-date: September 3, 2020
+date: July 21, 2022
 ---
 
-{% include figure image_path="/assets/images/contact-image.jpg" alt="" caption="" %}
+{% include figure image_path="/assets/images/20210901_dyanitaff_0007.jpg" alt="" caption="" %}
 
-I am in integrative organismal biologist interested in questions about behavior, ecology, evolution, and physiology. I mainly work on wild birds, but I'm interested in questions that have broad applicability to understanding how animals deal with challenging situations and why some individuals are more successful than others. Although I work on wild animals, a large part of my work uses quantitative tools and lab techniques including epigenetics, diet metabarcoding, microbiome studies, and remote sensor networks. I'm currently a Research Associate in the [Vitousek Lab](http://www.vitousek.weebly.com) at Cornell University. 
+I write and teach about early modern literature, working at the intersection of gender studies and the maritime humanities, with explorations into environmental justice and premodern critical race studies. I am currently writing a book titled *Gendered Seascapes and Monarchy in Early Modern English Culture*.
 
 ### Get in touch!
 
-Dr. Conor C. Taff<br>
-Research Associate<br>
-[Department of Ecology & Evolutionary Biology][1]<br>
-[Cornell Lab of Ornithology][2]<br>
-[Vitousek Lab](https://www.vitousek.weebly.com)
-<br>
-Cornell University
+Dr. Dyani Johns Taff<br>
+Assistant Professor of English<br>
+[Department of English, Colby College](https://www.colby.edu/englishdept/)<br>
 
-E240 Corson Hall<br />
-215 Tower Road Rd.<br />
-Ithaca, NY 14850<br />
-
-<a href="mailto:{{ 'cct63@cornell.edu' | encode_email }}" title="Email me">Email me</a>
-
-[1]: https://ecologyandevolution.cornell.edu/
-[2]: https://www.birds.cornell.edu
+<a href="mailto:{{ 'dtaff@colby.edu' | encode_email }}" title="Email me">Email me</a>
