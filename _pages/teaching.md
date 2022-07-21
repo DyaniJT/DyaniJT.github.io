@@ -3,7 +3,7 @@ layout: single
 title: "Teaching"
 permalink: /teaching/
 header:
-    overlay_image: /assets/images/teaching-banner.png
+    overlay_image: /assets/images/Teaching-banner.png
 author_profile: true
 classes: wide
 date: July 21, 2022
