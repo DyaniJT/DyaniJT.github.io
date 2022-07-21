@@ -3,7 +3,7 @@ layout: single
 title: "About"
 permalink: /about/
 header:
-    overlay_image: /assets/images/IMG_4062.jpg
+    overlay_image: /assets/images/about-banner.jpg
 author_profile: true
 classes: wide
 date: July 21, 2022
