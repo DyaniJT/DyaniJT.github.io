@@ -20,4 +20,4 @@ Assistant Professor of English<br>
 
 <a href="mailto:{{ 'dtaff@colby.edu' | encode_email }}" title="Email me">Email me</a>
 
-{% include figure image_path="/assets/images/Taff Summer Reading.png" alt="" caption="" %}
+{% include figure image_path="/assets/images/IMG_4046.jpeg" alt="" caption="" %}
