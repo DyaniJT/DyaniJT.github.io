@@ -49,8 +49,8 @@ The book analyzes seascapes that appear in a range of well- and lesser-known pla
 
 2015 
 - [“A Shipwreck of Faith: Hazardous Voyages and Contested Representations in Milton’s *Samson Agonistes*.”](/assets/pdfs/Taff-Shipwreck-Samson.pdf){: .btn .btn--info} *Storms on Islands: Shipwreck and Island Motifs in Literature and the Arts*. Eds. Brigitte Le Juez and Olga Springer. Brill/Rodopi. 151-170.
-
-
+ 
+<hr style="border:2px solid gray">
 
 ### Selected Awards
 - Folger Shakespeare Library Short-Term Fellowship—Omohundro Institute Fellow, 2021
