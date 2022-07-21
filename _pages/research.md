@@ -49,3 +49,12 @@ The book analyzes seascapes that appear in a range of well- and lesser-known pla
 
 2015 
 - [“A Shipwreck of Faith: Hazardous Voyages and Contested Representations in Milton’s *Samson Agonistes*.”](/assets/pdfs/Taff-Shipwreck-Samson.pdf){: .btn .btn--info} *Storms on Islands: Shipwreck and Island Motifs in Literature and the Arts*. Eds. Brigitte Le Juez and Olga Springer. Brill/Rodopi. 151-170.
+
+
+
+### Selected Awards
+- Folger Shakespeare Library Short-Term Fellowship—Omohundro Institute Fellow, 2021
+- Shakespeare Association of America Travel Grant, 2015.
+- Outstanding Graduate Student Teaching Award, UC Davis Graduate Studies, 2014.
+- Research-Teaching Fellowship, Andrew W. Mellon Foundation UC Davis Initiative in Early Modern Studies, 2014.
+- Dissertation Fellowship, UC Davis Department of English, Summers 2013 and 2014.
