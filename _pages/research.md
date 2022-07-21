@@ -3,7 +3,7 @@ layout: single
 title: "Research"
 permalink: /research/
 header:
-    overlay_image: /assets/images/research_banner.jpg
+    overlay_image: /assets/images/Magna_Carta_Mundi_1670_(Nicolaus_Ioannis_Vischerius).jpg
 author_profile: true
 toc: true
 toc_label: "Sections"
