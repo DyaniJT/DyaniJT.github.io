@@ -20,4 +20,4 @@ Assistant Professor of English<br>
 
 <a href="mailto:{{ 'dtaff@colby.edu' | encode_email }}" title="Email me">Email me</a>
 
-{% include figure image_path="/assets/images/IMG_4046.jpeg" alt="A close up of pitcher plants with water in them as well as sundews and lichens" caption="Pitcher plants and sundews on the bog at Quoddy Head State Park, Lubec, ME" %}
+{% include figure image_path="/assets/images/IMG_4046.jpeg" alt="A close up of pitcher plants with water in them as well as sundews and lichens" caption="Pitcher plants, baked apple berries, sundews, and other plants and lichens on the bog at Quoddy Head State Park, Lubec, ME" %}
