@@ -11,7 +11,7 @@ date: July 21, 2022
 
 {% include figure image_path="/assets/images/Taff Summer Reading.png" alt="" caption="" %}
 
-I write and teach about early modern literature, working at the intersection of gender studies and the maritime humanities, with explorations into environmental justice and premodern critical race studies. I am currently writing a book titled *Gendered Seascapes and Monarchy in Early Modern English Culture*.
+I write and teach about early modern literature, working at the intersection of gender studies and the maritime humanities, with explorations into environmental justice and premodern critical race studies. I have written essays on Spenser, Shakespeare, Ben Jonson, Margaret Cavendish, Hester Pulter, and Chaucer, and I am currently writing a book titled *Gendered Seascapes and Monarchy in Early Modern English Culture*.
 
 ### Get in touch!
 
