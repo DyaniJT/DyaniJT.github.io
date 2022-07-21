@@ -41,7 +41,7 @@ The book analyzes seascapes that appear in a range of well- and lesser-known pla
 
 2019
 [“’[L]ove that oughte ben secree’: Secrecy and Alternate Endings in Chaucer’s *Troilus and Criseyde*.”](/assets/pdfs/Taff-Secrecy-Alternate-Endings.pdf){: .btn .btn--info} *Studies in Philology*, vol. 116, no. 4 (Fall 2019): 617-639.
-[“Precarious Travail, Gender, and Narration in Shakespeare’s *Pericles, Prince of Tyre* and Margaret Cavendish’s *The Blazing World*.”](/assets/pdfs/Taff-Precarious-Travail.pdf){: .btn .btn--info} *Travel and Travail: Early Modern Women, English Drama, and the Wider World*. Eds. Bernadette Andrea and Patricia Akhimie. University of Nebraska Press. 273-291.
+[“Precarious Travail, Gender, and Narration in Shakespeare’s *Pericles, Prince of Tyre* and Margaret Cavendish’s *The Blazing World*.”](/assets/pdfs/Taff-Precarious-Travail.pdf){: .btn .btn--info}{: .text-left} *Travel and Travail: Early Modern Women, English Drama, and the Wider World*. Eds. Bernadette Andrea and Patricia Akhimie. University of Nebraska Press. 273-291.
 
 2018
 [“Gendered Circulation and the Marital Ship of State in Jonson’s *The Staple of News*.”](/assets/pdfs/Taff-Gendered-Circulation.pdf){: .btn .btn--info} *Renaissance Drama* 46, vol. 2 (Fall 2018): 193-212.
