@@ -38,6 +38,7 @@ Close analysis of a broad range of texts forms the core of each of my courses, a
 - Women, Science, and Politics in 17th C Literature
 - Shakespeare and Injustice
 
+<hr style="border:2px solid gray">
 
 #### Ithaca College Courses
 
@@ -47,6 +48,7 @@ Close analysis of a broad range of texts forms the core of each of my courses, a
 - Introduction to Poetry
 - Shakespeare (sophomore level)
 
+<hr style="border:2px solid gray">
 
 #### Teaching History
 
