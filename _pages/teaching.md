@@ -31,14 +31,13 @@ Close analysis of a broad range of texts forms the core of each of my courses, a
 
 {% include figure image_path="/assets/images/diamond-line.png" alt="" caption="" %}
 
-#### Other Colby College Courses
+#### Colby College Courses
 
 - Introduction to Environmental Humanities
 - Language, Thought, and Writing: Community Literacy and Migration
 - Women, Science, and Politics in 17th C Literature
 - Shakespeare and Injustice
 
-{% include figure image_path="/assets/images/diamond-line.png" alt="" caption="" %}
 
 #### Ithaca College Courses
 
@@ -48,7 +47,6 @@ Close analysis of a broad range of texts forms the core of each of my courses, a
 - Introduction to Poetry
 - Shakespeare (sophomore level)
 
-{% include figure image_path="/assets/images/diamond-line.png" alt="" caption="" %}
 
 #### Teaching History
 
