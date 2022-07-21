@@ -3,39 +3,17 @@ layout: single
 title: "Teaching"
 permalink: /teaching/
 header:
-    overlay_image: /assets/images/female_coye_banner.jpg
+    overlay_image: /assets/images/teaching-banner.png
 author_profile: true
-toc: true
-toc_label: "Sections"
-toc_icon: "feather-alt"
 classes: wide
-date: September 3, 2020
-
-
-feature_row1:
-  - image_path: /assets/images/resilience_figure.png
-    title: "Teaching Philosophy"
-    excerpt: "The most effective learning occurs when students are actively engaged in defining their own questions, allowed to make mistakes, and encouraged to work through those mistakes to arrive at a genuine understanding of difficult concepts. This type of experiential learning is demanding for both instructors and students, but I am committed to providing a challenging and engaging learning experience to each of my students both when designing my classes and when mentoring independent research students. Asking students to propose and struggle with their own questions approximates the process of scientific discovery that practicing scientists actually follow. When undergraduate biology students are guided into taking control of their own learning, they cultivate the independence and self-motivation that graduate schools and professional careers in biology demand. Creating opportunities for genuine scientific discovery through class work is challenging, but the best teachers that I have had often accomplish this task by employing active learning strategies, such as ‘flipped’ classrooms and by developing open-ended assignments that use real datasets for lab activities in which students have the opportunity to develop and test original hypotheses."
-    
-feature_row2:
-  - image_path: /assets/images/resilience_figure.png
-    title: "Cornell: Ornithology BioEE4750"
-    excerpt: "Summary about class."
-    url: "https://drive.google.com/file/d/1YNjy-B9oUyfY3e3-7SL5cC1NRMqEn4SL/view?usp=sharing"
-    btn_label: "Syllabus"
-    btn_class: "btn--primary"
-  - url2: "https://drive.google.com/file/d/1W0iofJJNZGFXwxfd5Xxyy7Q1hyr6Lsbq/view?usp=sharing"
-    btn_label2: "Assignment Sheets"
-    btn_class: "btn--primary"
-
+date: July 21, 2022
 ---
 
 ### Teaching Philosophy
 
-The most effective learning occurs when students are actively engaged in defining their own questions, allowed to make mistakes, and encouraged to work through those mistakes to arrive at a genuine understanding of difficult concepts. This type of experiential learning is demanding for both instructors and students, but I am committed to providing a challenging and engaging learning experience to each of my students both when designing my classes and when mentoring independent research students. 
+My goal in the classroom is to create lively, productive conversations by inviting students to share and broaden their experiences through close encounters with complex texts. In my summer courses at Skidmore College, high-achieving high school students from under-served communities learned alongside current Skidmore students and adults from the Saratoga community. At UC Davis, I worked with international students, non-native English speakers, parents, students returning to college after other careers, those with disabilities, and those from different racial, economic, and cultural backgrounds. I have continued to teach students from all of these backgrounds, first at Ithaca College and now at Colby College, both of which are majority white and majority young-adult communities; I use collaborative learning practices that I have developed in response to my students and that encourage diverse perspectives in my classrooms.
 
-
-Asking students to propose and struggle with their own questions approximates the process of scientific discovery that practicing scientists actually follow. When undergraduate biology students are guided into taking control of their own learning, they cultivate the independence and self-motivation that graduate schools and professional careers in biology demand. Creating opportunities for genuine scientific discovery through class work is challenging, but the best teachers that I have had often accomplish this task by employing active learning strategies, such as ‘flipped’ classrooms and by developing open-ended assignments that use real datasets for lab activities in which students have the opportunity to develop and test original hypotheses.
+Close analysis of a broad range of texts forms the core of each of my courses, and we support our close textual work with individual and group research projects. My students’ close readings become a foundation for their work as sophisticated readers and writers, whether they are comparing disparate texts, gathering evidence to support their claims, or placing their ideas in relation to those of classmates and experts. These skills are central to literary study, and also to students’ engagement as citizens within and beyond college.
 
 <hr style="border:2px solid gray">
 
