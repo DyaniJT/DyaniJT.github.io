@@ -11,7 +11,7 @@ date: July 21, 2022
 feature_rowa:
   - image_path: /assets/images/Shipwrack.png
     excerpt: "Image courtesy of The Burke Library at Union Theological Seminary, Columbia University Libraries."
-  - image_path: /assets/images/diamond.png
+  - image_path: /assets/images/diamond.jpeg
     excerpt: ""
   - image_path: /assets/images/Medieval boat.png
     excerpt: "From *Life of Guthlac* [British Library ms Harley Roll Y 6](https://www.bl.uk/medieval-literature/articles/the-life-of-the-anchoress)"
