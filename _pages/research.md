@@ -25,4 +25,4 @@ The book analyzes seascapes that appear in a range of well- and lesser-known pla
 
 {% include feature_row id="feature_rowa" %}
 
-[Publications](){: .btn .btn--info} 
+[Publications](assets/pdfs/TaffCVWebsite.pdf){: .btn .btn--info} 
