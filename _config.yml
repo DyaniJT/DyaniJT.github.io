@@ -49,7 +49,7 @@ include:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-LLH1HY5YMR"
+    tracking_id: "UA-83021833-1"
     anonymize_ip: false
 
 # Plugins (previously gems:)
