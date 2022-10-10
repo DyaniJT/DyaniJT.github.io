@@ -32,6 +32,10 @@ The book analyzes seascapes that appear in a range of well- and lesser-known pla
 
 #### 2022 
 
+Under contract with Amsterdam University Press and undergoing peer review: “Estuarial Rage and Resistance in Hester Pulter’s ‘The Complaint of Thames.’” *Water and Cognition in Early Modern English Literature*. Eds. Nic Helms and Steve Mentz.
+ 
+Accepted for publication: “Rivers and Bogs: Slow Protests in Aphra Behn’s *Oroonoko*.” *Coastal Studies & Society*. Invited contribution for a special issue edited by Christopher Pastore.
+
 [“Europa into the Waves: John Dee and Meandering Research.”](https://collation.folger.edu/2022/07/europa-into-the-waves/) *The Collation*. Folger Shakespeare Library. 8 July. 
 
 
