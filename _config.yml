@@ -66,18 +66,12 @@ author:
   bio    : "Assistant Professor of English at Colby College. Working in early modern literature, gender studies, and the maritime humanities; exploring environmental justice and premodern critical race studies."
   location: "Waterville, ME, USA"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DyaniJTaff"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:dtaff@colby.edu"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DyaniJTaff"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:dtaff@colby.edu"
