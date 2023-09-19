@@ -60,8 +60,8 @@ Close analysis of a broad range of texts forms the core of each of my courses, a
 #### Teaching History
 
 - 2015-2021 Lecturer at Ithaca College
-- 2009-2014 Associate Instructor at University of California, Davis
-- 2008-2010 Teaching Assistant at University of California, Davis
+- 2009-2015 Associate Instructor at University of California, Davis
+- 2008-2009 Teaching Assistant at University of California, Davis
 - 2011-2012 Instructor at Skidmore College, Summer Program
 
 {% include figure image_path="/assets/images/diamond-line.png" alt="" caption="" %}     
