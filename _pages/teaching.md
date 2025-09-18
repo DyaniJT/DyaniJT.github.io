@@ -30,7 +30,7 @@ Close analysis of a broad range of texts forms the core of each of my courses, a
 - **Foundations of Literary Studies:** The central purpose of this course is to introduce you, as per the title, to the foundations of literary studies; that is, our task will be to discuss and practice how to read and write about literature according to the conventions of the academic discipline of literary studies. To approach this task, we will read widely across the various kinds of literature—poetry, essays, a play, and a novel—written in English in time periods from the medieval to the twenty-first century. We will define key disciplinary terms and concepts and put them to use in analytical close readings of our texts. We’ll consider some authoritative answers to the question “What is Literature?” and we’ll attempt some answers of our own. We’ll explore not just how to read literature but also why we might want or need to do so. What does reading literary texts do to you and how? What can you do with literary texts? What does literature enable us to feel, experience, or describe? How do stories shape our interior and exterior worlds?
 
 
-     [Syllabus](/assets/pdfs/Taff EN357 Lit&Env SP24.pdf){: .btn .btn--info}
+     [Syllabus](/assets/pdfs/Taff EN200 Foundations FA25.pdf){: .btn .btn--info}
 
 
 {% include figure image_path="/assets/images/diamond-line.png" alt="" caption="" %}
