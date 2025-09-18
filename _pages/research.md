@@ -30,11 +30,19 @@ The book analyzes seascapes that appear in a range of well- and lesser-known pla
 
 ### Publications
 
+#### In Process
+
+“‘I am the sea’: Grief and Disability in Titus Andronicus.” *Oxford Handbook of Shakespeare and the Natural World*. Eds. Todd Borlik and Karen Raber. Oxford University Press. Invited contribution; in peer review.
+
+Review: Mary C. Fuller. *Lines Drawn Across the Globe: Reading Richard Hakluyt’s Principal Navigations* (McGill-Queens UP, 2023). *Journal of British Studies*. In press.
+
+
+
 #### 2024
 
 [“Estuarial Rage and Resistance in Hester Pulter’s ‘The Complaint of Thames.’”](https://www.aup.nl/en/book/9789463724791/water-and-cognition-in-early-modern-english-literature) *Water and Cognition in Early Modern English Literature*. Eds. Nic Helms and Steve Mentz. Amsterdam University Press. 237-55.
 
-[Review:](https://doi.org/10.1093/isle/isad084) Todd Andrew Borlik. Shakespeare Beyond the Green World: Drama and Ecopolitics in Jacobean Britain (Oxford UP, 2023). *ISLE: Interdisciplinary Studies in Literature and Environment*, 31.1. 237-238.
+[Review:](https://doi.org/10.1093/isle/isad084) Todd Andrew Borlik. *Shakespeare Beyond the Green World: Drama and Ecopolitics in Jacobean Britain* (Oxford UP, 2023). *ISLE: Interdisciplinary Studies in Literature and Environment*, 31.1. 237-238.
 
 
 #### 2023 
