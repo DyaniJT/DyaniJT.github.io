@@ -47,15 +47,15 @@ Close analysis of a broad range of texts forms the core of each of my courses, a
 #### Colby College Courses
 
 - [Language, Thought, and Writing: Community Literacy and Migration](/assets/pdfs/Taff EN120G FA26 Syllabus and Assignments.pdf)
-- [Foundations of Literary Studies](/assets/pdfs/.pdf)
-- Introduction to Environmental Humanities
-- Literature and Environment
-- Staging Pirates and Captives in Early Modern Romance
-- Shakespeare and Injustice
-- Slow Read Shakespeare: The Tempest
-- Women, Science, and Politics in 17th C Literature
-- Greenworlds and Changeable Bodies in Early Modern Drama
-- Islands Theme Seminar
+- [Foundations of Literary Studies](/assets/pdfs/Taff EN200 Foundations FA25.pdf)
+- [Introduction to Environmental Humanities](/assets/pdfs/Taff EN 283 Fall 2023.pdf)
+- [Literature and Environment](/assets/pdfs/Taff EN357 Lit&Env SP24.pdf)
+- [Staging Pirates and Captives in Early Modern Romance](/assets/pdfs/Taff EN355 Pirates Captives SP24.pdf)
+- [Shakespeare and Injustice](/assets/pdfs/Taff EN330 FA 26 Syllabus and Assignments.pdf)
+- [Slow Read Shakespeare: The Tempest](/assets/pdfs/Taff EN225 Slow Read Tempest FA25.pdf)
+- [Women, Science, and Politics in 17th C Literature](/assets/pdfs/Taff EN493 SP 23.pdf)
+- [Greenworlds and Changeable Bodies in Early Modern Drama](/assets/pdfs/Taff EN390 Greenworlds SP26 with Assignments.pdf)
+- [Islands Theme Seminar](/assets/pdfs/EN125_ Islands Syllabus FA 26 Taff + Brignac.pdf)
 <br/><br/>
 
 <hr style="border:2px solid gray">
