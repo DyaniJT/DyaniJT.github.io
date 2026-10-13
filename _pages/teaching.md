@@ -19,15 +19,15 @@ Close analysis of a broad range of texts forms the core of each of my courses, a
 
 {% include figure image_path="/assets/images/diamond-line.png" alt="" caption="" %}
 
-### Fall 2025 Courses 
+### Fall 2026 Courses 
 
-- **Slow Read Shakespeare: The Tempest:** Our goal for the semester will be to slow down with Shakespeare. We will engage in critical reading and re-reading practices and explore how historical research, creative response, adaptation, and place-based study can shape our understanding of Shakespeare’s The Tempest. Along the way, we will find answers to some of these questions: What was Shakespeare reading and where—culturally and spatially—did he write from? Why read Shakespeare, here and now? What can reading slowly teach us about the study of literature and the practice of writing?
-
-
-     [Syllabus](/assets/pdfs/Taff EN225 Slow Read Tempest FA25.pdf){: .btn .btn--info}
+- **Language, Thought, and Writing: Community Literacy and Migration:** Where are we and what are we doing here? How did we get here and how do we know what we know? What’s next and who needs to hear our stories? These three sets of questions will guide our exploration of personal essays, literary texts, scholarly criticism, images, and more as we seek to gain literacy—not only the ability to read and write but also to engage cultural knowledge—about Colby College and Waterville, about the communities from which we come, and about the concept of migration. We will examine our arrival in the Colby College community through reflective, analytical, narrative, and research-based writing, peer editing, and other literacy-focused activities. We will place our own stories in relation to those of writers from the past and the present, including Shakespeare, Joy Harjo, Margaret Cavendish, bell hooks, and Mohsin Hamid. Our goal will be to develop a successful college-level writing practice while gaining a textured understanding of what it takes to migrate, what kinds of knowledge we bring with us when we do, and how humans gain literacy and become creators of new knowledge when we join new communities.
 
 
-- **Foundations of Literary Studies:** The central purpose of this course is to introduce you, as per the title, to the foundations of literary studies; that is, our task will be to discuss and practice how to read and write about literature according to the conventions of the academic discipline of literary studies. To approach this task, we will read widely across the various kinds of literature—poetry, essays, a play, and a novel—written in English in time periods from the medieval to the twenty-first century. We will define key disciplinary terms and concepts and put them to use in analytical close readings of our texts. We’ll consider some authoritative answers to the question “What is Literature?” and we’ll attempt some answers of our own. We’ll explore not just how to read literature but also why we might want or need to do so. What does reading literary texts do to you and how? What can you do with literary texts? What does literature enable us to feel, experience, or describe? How do stories shape our interior and exterior worlds?
+     [Syllabus](/assets/pdfs/Taff EN120G FA26 Syllabus and Assignments.pdf){: .btn .btn--info}
+
+
+- **Shakespeare and Injustice:** The central purpose of this course is to introduce you, as per the title, to the foundations of literary studies; that is, our task will be to discuss and practice how to read and write about literature according to the conventions of the academic discipline of literary studies. To approach this task, we will read widely across the various kinds of literature—poetry, essays, a play, and a novel—written in English in time periods from the medieval to the twenty-first century. We will define key disciplinary terms and concepts and put them to use in analytical close readings of our texts. We’ll consider some authoritative answers to the question “What is Literature?” and we’ll attempt some answers of our own. We’ll explore not just how to read literature but also why we might want or need to do so. What does reading literary texts do to you and how? What can you do with literary texts? What does literature enable us to feel, experience, or describe? How do stories shape our interior and exterior worlds?
 
 
      [Syllabus](/assets/pdfs/Taff EN200 Foundations FA25.pdf){: .btn .btn--info}
@@ -35,7 +35,7 @@ Close analysis of a broad range of texts forms the core of each of my courses, a
 
 {% include figure image_path="/assets/images/diamond-line.png" alt="" caption="" %}
 
-### Spring 2026 Courses
+### Spring 2027 Courses
 
 - **Greenworlds and Changeable Bodies in Early Modern Drama:** In 16th and 17th century English drama, clothing can make or unmake the (wo)man, bodies and identities are malleable, and greenworlds—forests, rivers, seashores, and battlefields—upend social norms and trouble human/nonhuman boundaries. Students will use a range of ecocritical and sexuality studies theories to explore and write about queer bodies—capaciously defined—in plays including John Lily’s *Gallathea*, William Shakespeare’s *Twelfth Night*, Margaret Cavendish’s *Love’s Adventures*, and John Milton’s *Comus: A Mask*.
 
@@ -54,6 +54,7 @@ Close analysis of a broad range of texts forms the core of each of my courses, a
 - Slow Read Shakespeare: The Tempest
 - Women, Science, and Politics in 17th C Literature
 - Greenworlds and Changeable Bodies in Early Modern Drama
+- Islands Theme Seminar
 <br/><br/>
 
 <hr style="border:2px solid gray">
